@@ -3,7 +3,7 @@ A Google Apps Script to forward Patreon notifications from Gmail to a Discord ch
 Needed as the Patreon Bot doesn't post notifications of any kind, it only updates member roles and ONLY if the member has linked their Patreon account to their Discord account, which is rare.
 
 Requirements:
-You must have Google account and your Gmail account must be the creator email address of the Patreon account.
+You must have a Google account and your Gmail account must be the creator email address of the Patreon account.
 
 Steps:
 1. On your Discord, under Server Settings, Integrations, create New Webhook.
