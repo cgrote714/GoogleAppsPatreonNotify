@@ -15,7 +15,7 @@ Steps:
 7. Use the code from Code.gs substituting your Webhook URL
 8. Save and test the project.  You will be asked by Gmail to authorize the project.
 9. Deploy the project as a web app but don't make it public (Only Me)
-10. Create a Trigger that runs it hourly or every half hour (rate limit is currently 50 per day)
+10. Create a Trigger that runs it every half hour
 
 You can test it by marking an old email notification as Unread.
 
